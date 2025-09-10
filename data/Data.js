@@ -2,7 +2,7 @@ const firstBannerData = [
     {
         id:0,
         title:"The Perfect Door For Every Occasion",
-        imgSrc:"images/doors/door_blog_1.jpg",
+        imgSrc:"images/doors/insta_door_6.jpg",
     },
     {
         id:1,
@@ -322,7 +322,7 @@ const blogList = [
     },
     {
         id: 5,
-        imgSrc: "images/doors/door_blog_1.jpg",
+        imgSrc: "images/doors/insta_door_6.jpg",
         category: "Classic Door",
         date: "17 January, 2023",
         length: 7,
